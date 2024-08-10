@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working with SQL(MS-SQL, Bigquery mostly), Python, Power BI and willing to learn its own practices.
+- 🔭 I’m currently working with SQL(MS-SQL, Bigquery mostly), Python, Power BI and willing to learn its best practices.
 - 🌱 I’m learning about life and trying to get better than my past self.
 - 👯 I’m looking to collaborate on all projects around my subject.Toss them to me :).
 - 🤔 I’m looking for new projects to be in.

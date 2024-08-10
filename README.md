@@ -12,4 +12,4 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: For business inqueries https://www.linkedin.com/in/cihat-ulut%C3%BCrk-277524216/. I added other platforms as well.
 - ⚡ Fun fact: I turn into a pumpkin at night.
 
-\_(•_•)_/
+  \_(•_•)_/

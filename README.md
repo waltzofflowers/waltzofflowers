@@ -18,9 +18,17 @@ Welcome to my GitHub profile!
 ## My Tech Stack
 
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="38"/>
+  <img src="https://img.shields.io/badge/Excel-E34F26?style=flat-square&logo=sql&logoColor=white" alt="Excel" height="38"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Power BI-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="38"/>
-</span>
-
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=sql&logoColor=white" alt="Python" height="38"/>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="38"/>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/DBMS-E34F26?style=flat-square&logo=sql&logoColor=white" alt="DBMS" height="38"/>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Statistic-E34F26?style=flat-square&logo=sql&logoColor=white" alt="Statistic" height="38"/>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Data Visualization-E34F26?style=flat-square&logo=sql&logoColor=white" alt="Data Visualization" height="38"/>

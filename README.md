@@ -15,4 +15,4 @@ Welcome to my GitHub profile!
           \_(•_•)_/
               \/
   
-![SQL Badge](https://img.shields.io/badge/SQL-Server?style=flat-square&logoColor=000000&color=E34F26)
+![SQL Badge](https://img.shields.io/badge/SQL-Server?style=flat-square&logoColor=000000&logoSize=100&color=E34F26)

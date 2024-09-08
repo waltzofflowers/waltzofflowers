@@ -21,6 +21,6 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="50"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/PowerBI-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="50"/>
+  <img src="https://img.shields.io/badge/Power BI-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="50"/>
 </span>
 

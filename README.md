@@ -18,9 +18,9 @@ Welcome to my GitHub profile!
 ## My Tech Stack
 
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="38"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Power BI-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="30"/>
+  <img src="https://img.shields.io/badge/Power BI-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="38"/>
 </span>
 

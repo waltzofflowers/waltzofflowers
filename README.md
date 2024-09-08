@@ -15,4 +15,4 @@ Welcome to my GitHub profile!
           \_(•_•)_/
               \/
   
-[[![SQL Badge](https://wakatime.com/badge/github/waltzofflowers/pythonwork.svg)]](https://img.shields.io/badge/SQL-Server?style=flat-square&logoColor=000000&color=E34F26)
+![SQL Badge](https://img.shields.io/badge/SQL-Server?style=flat-square&logoColor=000000&color=E34F26)

@@ -13,17 +13,24 @@
 ## My Tech Stack
 
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/microsoft-excel-E34F26?style=flat-square&logo=sql&logoColor=white" alt="Excel" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-E34F26?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/power-bi-1572B6?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="30"/>
+  <img src="https://img.shields.io/badge/Power BI-1572B6?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI" height="30"/>
+</span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/python-F7DF1E?style=flat-square&logo=sql&logoColor=white" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
+</span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/microsoft-sql-server-3178C6?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="30"/>
+</span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/database-61DAFB?style=flat-square&logo=sql&logoColor=white" alt="DBMS" height="30"/>
+  <img src="https://img.shields.io/badge/DBMS-61DAFB?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
+</span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/google-analytics-CA4245?style=flat-square&logo=sql&logoColor=white" alt="Statistic" height="30"/>
+  <img src="https://img.shields.io/badge/Statistics-CA4245?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
+</span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/tableau-764ABC?style=flat-square&logo=sql&logoColor=white" alt="Data Visualization" height="30"/>
+  <img src="https://img.shields.io/badge/Data Visualization-764ABC?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
+</span>
+

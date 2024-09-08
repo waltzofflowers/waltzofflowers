@@ -14,3 +14,5 @@ Welcome to my GitHub profile!
 
           \_(•_•)_/
               \/
+
+  ![WakaTime Badge](https://wakatime.com/share/@9b9914c4-49d5-432e-9f2e-3b35854bde7a/6bcfc4cf-25e8-4402-9757-a3a162615b17.svg)

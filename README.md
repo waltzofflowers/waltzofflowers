@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/DBMS-61DAFB?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
+  <img src="https://img.shields.io/badge/RDBMS-61DAFB?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Statistics-CA4245?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>

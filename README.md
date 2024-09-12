@@ -9,7 +9,7 @@
 
           \_(•_•)_/
               \/
-  
+ 
 ## My Tech Stack
 
 <span style="padding-right: 10px;">
@@ -33,4 +33,3 @@
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Data Visualization-764ABC?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
 </span>
-

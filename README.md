@@ -16,7 +16,7 @@
 
 ##🏆 Achievements
 
-- **Longest Streak**: ![WakaTime Streak](https://wakatime.com/badge/user/your-username.svg)
+- **Longest Streak**: ![WakaTime Streak](https://wakatime.com/badge/user/waltzofflowers.svg)
 - **Total Coding Time**: ![WakaTime Coding Time](https://wakatime.com/badge/user/your-username.svg)
 - **Most Used Languages**: Python, SQL(Ms-Sql, Bigquery, Postgresql), BI-Tools(Priority Power-BI, Looker, Tableau)
  

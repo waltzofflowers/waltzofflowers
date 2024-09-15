@@ -18,6 +18,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150" style="vertical-align: middle;"/>
 </p>
 
+#
+
+## Pinned Projects
+
+- [Project A](https://github.com/waltzofflowers/Projects/Flight_API_to_Actionable_Insights): A brief description of Project A.
+- [Project B](https://github.com/waltzofflowers/Projects/Bigquery_Python_Etl_Try): A brief description of Project B.
+
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

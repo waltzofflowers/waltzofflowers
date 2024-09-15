@@ -37,3 +37,10 @@
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
 </span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Snowflake-00C7E6?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" height="30"/>
+</span>
+

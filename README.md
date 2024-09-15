@@ -14,12 +14,11 @@
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
  
-## My Tech Stack
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
@@ -36,4 +35,6 @@
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
 </span>
-
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+</span>

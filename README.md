@@ -13,9 +13,9 @@
 ## Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" width="300" style="margin-right: 20px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" width="300" style="margin-right: 20px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="margin-right: 20px; vertical-align: middle;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150" style="margin-right: 20px; vertical-align: middle;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150" style="vertical-align: middle;"/>
 </p>
 
  

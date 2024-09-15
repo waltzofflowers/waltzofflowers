@@ -1,4 +1,4 @@
-    •👋 Hi, I’m Cihat,
+    •👋 Hi, I’m Cihat ULUTURK,
     •🧑‍💼 Im Junior Data Analyst.
     •👀 I’m interested in learning more things around my subject!
     •🌱 I’m currently developing myself to be better than my past self every day.

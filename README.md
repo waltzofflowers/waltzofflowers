@@ -10,21 +10,13 @@
           \_(•_•)_/
               \/
 
-## 📈 WakaTime Stats
+## Contribution Stats
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
-
-### Total Contributions
-
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark)
-
-### Current Streak
-
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark)
-
-### Longest Streak
-
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" width="300" style="margin-right: 20px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" width="300" style="margin-right: 20px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" width="300"/>
+</p>
 
  
 <span style="padding-right: 10px;">

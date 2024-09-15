@@ -10,15 +10,15 @@
           \_(•_•)_/
               \/
 
-## Wakatime Stats
+## 📈 WakaTime Stats
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
 
-##🏆 Achievements
+## 🏆 Achievements
 
-- **Longest Streak**: ![WakaTime Streak](https://wakatime.com/badge/user/waltzofflowers.svg)
-- **Total Coding Time**: ![WakaTime Coding Time](https://wakatime.com/badge/user/your-username.svg)
-- **Most Used Languages**: Python, SQL(Ms-Sql, Bigquery, Postgresql), BI-Tools(Priority Power-BI, Looker, Tableau)
+- **Longest Streak**: ![Longest Streak](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=Longest%20Streak)
+- **Total Coding Time**: ![Total Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=Total%20Coding%20Time)
+- **Most Used Languages**: Python, SQL
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

@@ -13,7 +13,19 @@
 ## 📈 WakaTime Stats
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-000000?style=flat-square&logo=python&logoColor=white&labelColor=FF6F00&label=Longest%20Streak)
+
+### Total Contributions
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark)
+
+### Current Streak
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark)
+
+### Longest Streak
+
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark)
+
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

@@ -16,9 +16,9 @@
 
 ## 🏆 Achievements
 
-- **Longest Streak**: ![Longest Streak](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=Longest%20Streak)
-- **Total Coding Time**: ![Total Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=Total%20Coding%20Time)
-- **Most Used Languages**: Python, SQL
+- **Longest Streak**: ![Longest Streak](https://img.shields.io/badge/Longest_Streak-000000?style=flat-square&logo=python&logoColor=white&labelColor=FF6F00)
+- **Total Coding Time**: ![Total Coding Time](https://img.shields.io/badge/Total_Coding_Time-000000?style=flat-square&logo=python&logoColor=white&labelColor=4CAF50)
+- **Most Used Languages**: Python, SQL, JavaScript
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

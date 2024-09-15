@@ -12,7 +12,7 @@
 
 ## Wakatime Stats
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_title=true&custom_title=My%20WakaTime%20Stats&card_width=300)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_title=true&custom_title=My%20WakaTime%20Stats&card_width=200)
  
 ## My Tech Stack
 

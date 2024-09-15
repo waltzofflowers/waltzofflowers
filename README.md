@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
@@ -37,4 +37,7 @@
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Snowflake-00C7E6?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" height="30"/>
 </span>

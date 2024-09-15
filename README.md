@@ -16,24 +16,31 @@
  
 ## My Tech Stack
 
-<span style="padding-right: 10px;">
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
 </span>
-<span style="padding-right: 10px;">
+<br>
+<span style="padding-right: 10px;">Emblem: 
   <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
 </span>
+

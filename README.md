@@ -31,6 +31,7 @@ An integration project for pulling financial data via API and storing it in MSSQ
 ### [Flight_API_to_Actionable_Insights](https://github.com/waltzofflowers/Projects/tree/main/Flight_API_to_Actionable_Insights)
 A project that provides actionable insights from flight data through API.
 
+
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

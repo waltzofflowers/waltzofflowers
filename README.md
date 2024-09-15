@@ -20,19 +20,6 @@
 
 #
 
-## Projects
-
-### [Bigquery_Python_Etl_Try](https://github.com/waltzofflowers/Projects/tree/main/Bigquery_Python_Etl_Try)
-A project demonstrating ETL processes using BigQuery and Python.
-
-### [Finance_Api_to_MSSQL_Python](https://github.com/waltzofflowers/Projects/tree/main/Finance_Api_to_MSSQL_Python)
-An integration project for pulling financial data via API and storing it in MSSQL.
-
-### [Flight_API_to_Actionable_Insights](https://github.com/waltzofflowers/Projects/tree/main/Flight_API_to_Actionable_Insights)
-A project that provides actionable insights from flight data through API.
-
-
- 
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>

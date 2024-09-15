@@ -13,6 +13,12 @@
 ## Wakatime Stats
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
+
+##🏆 Achievements
+
+- **Longest Streak**: ![WakaTime Streak](https://wakatime.com/badge/user/your-username.svg)
+- **Total Coding Time**: ![WakaTime Coding Time](https://wakatime.com/badge/user/your-username.svg)
+- **Most Used Languages**: Python, SQL(Ms-Sql, Bigquery, Postgresql), BI-Tools(Priority Power-BI, Looker, Tableau)
  
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>

@@ -9,6 +9,10 @@
 
           \_(•_•)_/
               \/
+
+## Wakatime Stats
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=9b9914c4-49d5-432e-9f2e-3b35854bde7a&layout=compact&range=all_time)
  
 ## My Tech Stack
 

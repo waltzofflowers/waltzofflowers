@@ -12,7 +12,7 @@
 
 ## Coding Stats
 
-**Total Coding Time**: ![Total Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-000000?style=flat-square&logo=python&logoColor=white&labelColor=4CAF50&label=Total%20Coding%20Time)
+- **Longest Streak**: [WakaTime Longest Streak](https://wakatime.com/badge/user/your-username.svg?style=flat-square&logo=python&logoColor=white&label=Longest%20Streak)
 
 ## Contribution Stats
 

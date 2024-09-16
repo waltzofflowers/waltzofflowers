@@ -12,7 +12,7 @@
 
 ## Coding Stats
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark)
+**Total Coding Time**: ![Total Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-000000?style=flat-square&logo=python&logoColor=white&labelColor=4CAF50&label=Total%20Coding%20Time)
 
 ## Contribution Stats
 

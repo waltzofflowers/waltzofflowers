@@ -7,8 +7,8 @@
     •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk
     •⚡ Fun fact: I turn into a pumpkin at night.
 
-          \_(•_•)_/
-              \/
+                                      \_(•_•)_/
+                                          \/
 
               
 ## 📈 WakaTime Stats

@@ -11,7 +11,7 @@
                                 \/
 
               
-## 📈 Coding Stats - (Till i started using the api :( )
+## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />

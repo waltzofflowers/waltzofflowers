@@ -10,6 +10,10 @@
           \_(•_•)_/
               \/
 
+## Coding Stats
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark)
+
 ## Contribution Stats
 
 <p align="center">

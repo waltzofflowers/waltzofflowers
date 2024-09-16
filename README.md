@@ -10,9 +10,11 @@
           \_(•_•)_/
               \/
 
-## Coding Stats
+              
+## 📈 WakaTime Stats
 
-- **Total Coding Time**: [WakaTime Total Coding Time](https://wakatime.com/badge/user/your-username.svg?style=flat-square&logo=python&logoColor=white&label=Total%20Coding%20Time)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats)
+
 
 ## Contribution Stats
 

@@ -12,7 +12,7 @@
 
 ## Coding Stats
 
-- **Longest Streak**: [WakaTime Longest Streak](https://wakatime.com/badge/user/your-username.svg?style=flat-square&logo=python&logoColor=white&label=Longest%20Streak)
+- **Total Coding Time**: [WakaTime Total Coding Time](https://wakatime.com/badge/user/your-username.svg?style=flat-square&logo=python&logoColor=white&label=Total%20Coding%20Time)
 
 ## Contribution Stats
 

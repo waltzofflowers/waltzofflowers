@@ -2,7 +2,8 @@
     •🧑‍💼 Im Junior Data Analyst.
     •👀 I’m interested in learning more things around my subject!
     •🌱 I’m currently developing myself to be better than my past self every day.
-    •💻 I’m trying to do projects that is interesting and scalable so i can develop myself along the way too.
+    •💻 I’m trying to do projects that is interesting and scalable so i can develop myself 
+    along the way too.
     •💞️ I’m looking to collaborate on Open source projects!
     •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk
     •⚡ Fun fact: I turn into a pumpkin at night.

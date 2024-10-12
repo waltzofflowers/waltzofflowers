@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>

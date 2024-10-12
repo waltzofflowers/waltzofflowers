@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/SQL Server-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=database&logoColor=white" alt="DBMS" height="30"/>
+  <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=postgresql&logoColor=white" alt="DBMS" height="30" style="padding-right: 10;"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>

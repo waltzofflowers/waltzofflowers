@@ -1,5 +1,5 @@
     •👋 Hi, I’m Cihat ULUTURK,
-    •🧑‍💼 Im Junior Data Analyst.
+    •🧑‍💼 Im Junior Data Engineer.
     •👀 I’m interested in learning more things around my subject (Data Analysis, Data Engineering, DWH engineering
     subjects)!
     •🌱 I’m currently developing myself to be better than my past self every day.

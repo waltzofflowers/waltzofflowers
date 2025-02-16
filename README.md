@@ -1,7 +1,7 @@
     •👋 Hi, I’m Cihat ULUTURK,
     •🧑‍💼 Im Junior Data Engineer.
     •👀 I’m interested in learning more things around my subject (Big Data Engineering, Cloud Engineering, 
-    Statistic & Mathematics and every part of coding subjects)!
+        Statistic & Mathematics and every part of coding subjects)!
     •🌱 I’m currently developing myself to be better than my past self every day.
     •💻 I’m trying to do projects that is interesting and scalable so i can develop myself 
         along the way too.

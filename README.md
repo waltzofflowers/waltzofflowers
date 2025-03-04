@@ -11,14 +11,27 @@
                             \_(•_•)_/
                                 \/
 
-## 📈 Coding Stats
+## 📈 Coding Stats - (P.S. Only showing when I started using the API)
 
-<div style="width: 45%; float: left;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
 </div>
-
-<div style="width: 45%; float: right;">
+#
+<div style="width: 45%; float: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
+</div>
+<div style="width: 45%; float: right;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
+</div>
+
+
+
+#
+
+## Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
 </div>
 
 #
@@ -39,4 +52,11 @@
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" height="30" style="padding-right: 10;"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+</span>

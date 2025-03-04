@@ -19,6 +19,7 @@
   <!-- WakaTime Stats -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="vertical-align: middle; width: auto;"/>
   </div>
 
   <!-- Total Contributions and Most Used Languages -->

@@ -13,16 +13,18 @@
 
 ## 📈 Coding Stats - (P.S. Only showing when I started using the API)
 
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px;">
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
-  </div>
+<!-- First Image Centered and Big -->
+<div style="display: flex; justify-content: center; width: 100%; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="width: 100%; max-width: 600px;" />
+</div>
+
+<!-- Second and Third Images side by side (Left Half for Contributions, Right Half for Languages) -->
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-top: 20px;">
+  <!-- Total Contributions (Left Half) -->
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
   </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-top: 20px;">
+  <!-- Most Used Languages (Right Half) -->
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
   </div>

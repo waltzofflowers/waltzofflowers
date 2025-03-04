@@ -14,14 +14,14 @@
 
               
 ## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
 </div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="margin-right: 20px; vertical-align: middle;"/>
-</p>
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 20px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="vertical-align: middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" style="vertical-align: middle;"/>
+</div>
 
 #
 

@@ -19,13 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
 </div>
 
-
-## Contribution Stats
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="margin-right: 20px; vertical-align: middle;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150" style="margin-right: 20px; vertical-align: middle;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150" style="vertical-align: middle;"/>
 </p>
 
 #

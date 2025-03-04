@@ -19,8 +19,8 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; width: 100%; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="100" style="object-fit: contain; vertical-align: middle;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" height="100" style="object-fit: contain; vertical-align: middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="120" style="object-fit: contain; vertical-align: middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" height="120" style="object-fit: contain; vertical-align: middle;"/>
 </div>
 
 

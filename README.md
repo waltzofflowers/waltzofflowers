@@ -23,19 +23,7 @@
 <div style="width: 45%; float: right;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
 </div>
-
-
-
 #
-
-## Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
-</div>
-
-#
-
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>

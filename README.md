@@ -14,13 +14,21 @@
 
               
 ## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
+<div style="display: flex; justify-content: center; width: 100%; gap: 20px; margin-top: 20px;">
+  
+  <!-- WakaTime Stats -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
+  </div>
+
+  <!-- Total Contributions and Most Used Languages -->
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="vertical-align: middle; width: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" height="150" style="vertical-align: middle; width: auto;"/>
+  </div>
+
 </div>
 
-<div style="display: flex; justify-content: center; width: 100%; gap: 10px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="vertical-align: middle; width: auto; flex-grow: 1;"/>
-</div>
 
 #
 

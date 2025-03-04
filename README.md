@@ -13,22 +13,24 @@
 
 ## 📈 Coding Stats - (P.S. Only showing when I started using the API)
 
+<!-- Centered Image -->
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="width: 60%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="width: 60%; max-width: 600px;" />
 </div>
 
+<!-- Second and Third Images side by side (Left Half for Contributions, Right Half for Languages) -->
 <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-top: 20px;">
-  <div style="width: 48%;">
+  <div style="width: 48%; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
   </div>
-  <div style="width: 48%;">
+  <div style="width: 48%; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" />
   </div>
 </div>
 
 ## Skills and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
   <span>
     <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
   </span>

@@ -14,8 +14,9 @@
 
               
 ## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
-<div align="center">
+<div align="center" style="position: relative; display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
+  <div style="position: absolute; top: 10px; left: 10px; color: white; font-size: 20px; font-weight: bold;">Wakatime Stats</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 20px; margin-top: 20px;">

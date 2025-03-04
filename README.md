@@ -19,13 +19,14 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 20px; margin-top: 20px;">
-  <div style="display: flex; justify-content: center; align-items: center; width: 600px;">
+  <div style="width: 600px;">
     <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="width: 100%;"/>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; width: 600px;">
+  <div style="width: 600px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages" height="150" style="width: 100%;"/>
   </div>
 </div>
+
 
 #
 

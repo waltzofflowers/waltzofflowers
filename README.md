@@ -23,8 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
 </p>
 
+<!-- Now the streak stats will appear below and centered -->
 <p align="center" style="margin-top: 20px;">
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150"/>
   </div>

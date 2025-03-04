@@ -15,7 +15,7 @@
 
 <!-- First Image Centered and Big -->
 <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="width: 90%; max-width: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="width: 90%; max-width: 30px;" />
 </div>
 
 <!-- Second and Third Images side by side (Left Half for Contributions, Right Half for Languages) -->

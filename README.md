@@ -1,29 +1,30 @@
     •👋 Hi, I’m Cihat ULUTURK,  
-    •🧑‍💼 Im Junior Data Engineer.  
-    •👀 I’m interested in learning more things around my subject (Big Data Engineering, Cloud Engineering, 
-        Statistic & Mathematics and every part of coding subjects)!  
-    •🌱 I’m currently developing myself to be better than my past self every day.  
-    •💻 I’m trying to do projects that is interesting and scalable so i can develop myself 
-        along the way too.  
-    •💞️ I’m looking to collaborate on Open source projects!  
-    •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk  
+    •🧑‍💼 I'm a Junior Data Engineer.  
+    •👀 I’m interested in learning more about my subject (Big Data Engineering, Cloud Engineering, 
+        Statistics & Mathematics, and all parts of coding)!  
+    •🌱 I’m developing myself to be better than my past self every day.  
+    •💻 I’m working on interesting and scalable projects so I can grow as I go.  
+    •💞️ I’m looking to collaborate on open-source projects!  
+    •📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cihat-ulutürk)  
     •⚡ Fun fact: I turn into a pumpkin at night.
 
                             \_(•_•)_/
                                 \/
 
-## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
+## 📈 Coding Stats - (P.S. Only showing when I started using the API)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
 </div>
 
-
 ## Contribution Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
+</p>
+
+<p align="center" style="margin-top: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150"/>
   </div>

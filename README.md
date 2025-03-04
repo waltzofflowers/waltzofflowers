@@ -14,7 +14,7 @@
 ## 📈 Coding Stats - (P.S. Only showing when I started using the API)
 
 <!-- Centered Image -->
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" style="max-width: 50px; width: 100%;" />
 </div>
 

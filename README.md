@@ -1,18 +1,17 @@
-    •👋 Hi, I’m Cihat ULUTURK,
-    •🧑‍💼 Im Junior Data Engineer.
+    •👋 Hi, I’m Cihat ULUTURK,  
+    •🧑‍💼 Im Junior Data Engineer.  
     •👀 I’m interested in learning more things around my subject (Big Data Engineering, Cloud Engineering, 
-        Statistic & Mathematics and every part of coding subjects)!
-    •🌱 I’m currently developing myself to be better than my past self every day.
+        Statistic & Mathematics and every part of coding subjects)!  
+    •🌱 I’m currently developing myself to be better than my past self every day.  
     •💻 I’m trying to do projects that is interesting and scalable so i can develop myself 
-        along the way too.
-    •💞️ I’m looking to collaborate on Open source projects!
-    •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk
+        along the way too.  
+    •💞️ I’m looking to collaborate on Open source projects!  
+    •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk  
     •⚡ Fun fact: I turn into a pumpkin at night.
-                                        
+
                             \_(•_•)_/
                                 \/
 
-              
 ## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
 
 <div align="center">
@@ -23,9 +22,11 @@
 ## Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" style="margin-right: 20px; vertical-align: middle;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150" style="margin-right: 20px; vertical-align: middle;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150" style="vertical-align: middle;"/>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Current Streak" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltzofflowers&theme=dark" alt="Longest Streak" height="150"/>
+  </div>
 </p>
 
 #

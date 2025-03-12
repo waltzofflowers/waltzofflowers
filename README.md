@@ -13,17 +13,6 @@
                                 \/
 
               
-## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" />
-</div>
-
-#
-
 ## 📊 Data Analyst Stack
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
@@ -64,5 +53,5 @@
   <img src="https://img.shields.io/badge/HDFS-4E4D1D?style=flat-square&logo=apache-hadoop&logoColor=white" alt="HDFS" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="AWS" height="30"/>
 </span>

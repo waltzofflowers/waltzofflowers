@@ -24,6 +24,7 @@
 
 #
 
+## 📊 Data Analyst Stack
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>
@@ -31,19 +32,21 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
 </span>
 <span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
+</span>
+
+## ⚙️ Data Engineering Stack
+<span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/SQL Server-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" height="30" style="padding-right: 10;"/>
-</span>
-<span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
-</span>
-<span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
+  <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>

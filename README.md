@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="30"/>
 </span>
 <span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
+</span>
+<span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=google-analytics&logoColor=white" alt="Statistics" height="30"/>
 </span>
 <span style="padding-right: 10px;">
@@ -49,5 +52,17 @@
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
+  <img src="https://img.shields.io/badge/Airflow-0171C5?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/HDFS-4E4D1D?style=flat-square&logo=apache-hadoop&logoColor=white" alt="HDFS" height="30"/>
+</span>
+<span style="padding-right: 10px;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
 </span>

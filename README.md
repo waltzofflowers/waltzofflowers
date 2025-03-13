@@ -12,6 +12,17 @@
                             \_(•_•)_/
                                 \/
 
+## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&range=all_time&theme=dark&hide_progress=true&hide_title=true&custom_title=My%20WakaTime%20Stats" alt="WakaTime Stats" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Total Contributions" height="150" />
+</div>
+
+#
+
               
 ## 📊 Data Analyst Stack
 <span style="padding-right: 10px;">

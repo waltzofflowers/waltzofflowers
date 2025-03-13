@@ -9,8 +9,8 @@
     •📫 How to reach me https://www.linkedin.com/in/cihat-ulutürk
     •⚡ Fun fact: I turn into a pumpkin at night.
                                                                                     
-                                                                        \_(•_•)_/
-                                                                            \/
+                                                             \_(•_•)_/
+                                                                 \/
 
 ## 📈 Coding Stats - (P.s: only showing when i started using the api so .. )
 <div align="center">

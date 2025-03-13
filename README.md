@@ -24,6 +24,7 @@
 #
         
 ## 📊 Data Analyst Stack
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
 </span>

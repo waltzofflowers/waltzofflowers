@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="30"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="30"/>
 </span>
 
 ## ⚙️ Data Engineering Stack
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
 </span>
 <span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="30"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="30"/>
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/DBMS-3E4A89?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" height="30"/>
@@ -68,7 +68,4 @@
 </span>
 <span style="padding-right: 10px;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="AWS" height="30"/>
-</span>
-<span style="padding-right: 10px;">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="30"/>
 </span>

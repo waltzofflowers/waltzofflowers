@@ -20,12 +20,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-### My Stats:
-![](https://github-readme-stats.vercel.app/api?username=waltzofflowers&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-### Streak Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=waltzofflowers&theme=midnight-purple&hide_border=false)
-### Top Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waltzofflowers&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

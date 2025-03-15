@@ -29,6 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-#
-
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

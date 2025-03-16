@@ -23,10 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=waltzofflowers&theme=dark&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=waltzofflowers&theme=react&hide_border=true" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

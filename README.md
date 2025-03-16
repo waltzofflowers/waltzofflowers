@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=tokyonight)](https://github.com/waltzofflowers)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave)](https://github.com/waltzofflowers)
 
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

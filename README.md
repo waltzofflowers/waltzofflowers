@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 <p align="center">
-  <a href="https://wakatime.com/@9b9914c4-49d5-432e-9f2e-3b35854bde7a">
-    <img src="https://wakatime.com/badge/user/9b9914c4-49d5-432e-9f2e-3b35854bde7a.svg" alt="Wakatime Stats" />
-  </a>
+  <img src="https://wakatime.com/badge/user/waltzofflowers/languages.svg" alt="Wakatime Language Stats" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

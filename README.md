@@ -22,8 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
-<p align="center">
-  <img src="https://wakatime.com/badge/user/waltzofflowers/alltime.svg" alt="Wakatime All-Time Stats" />
-</p>
+![Your Name's WakaTime Stats](https://wakatime.com/badge/user/johndoe/alltime.svg)
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

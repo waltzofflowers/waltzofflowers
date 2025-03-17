@@ -20,10 +20,12 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  ![Waltzofflowers' GitHub stats](https://github-readme-stats.vercel.app/api?username=waltzofflowers&show_icons=true&theme=synthwave&contribs=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&show_icons=true&theme=synthwave&contribs=true" />
 </div>
 <div align="center">
-  [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave)](https://github.com/waltzofflowers)
+  <a href="https://github.com/waltzofflowers">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" />
+  </a>
 </div>
 
 

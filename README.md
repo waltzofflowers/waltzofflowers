@@ -20,10 +20,12 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&show_icons=true&theme=synthwave&contribs=true" />
 </div>
 
 <div align="center">
+  <!-- Wakatime Stats -->
   <a href="https://github.com/waltzofflowers">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" width="55%" />
   </a>

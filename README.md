@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/waltzofflowers">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" width="53%" />
   </a>
 </div>
 

@@ -22,11 +22,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waltzofflowers&show_icons=true&theme=synthwave&contribs=true" />
 </div>
+
 <div align="center">
   <a href="https://github.com/waltzofflowers">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave" width="50%" />
   </a>
 </div>
-
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)

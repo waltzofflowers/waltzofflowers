@@ -20,6 +20,7 @@
 
 # 📊 GitHub Stats:
 
+![Waltzofflowers' GitHub stats](https://github-readme-stats.vercel.app/api?username=waltzofflowers&show_icons=true&theme=synthwave&contribs=true)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waltzofflowers&layout=compact&theme=synthwave)](https://github.com/waltzofflowers)
 
 

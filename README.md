@@ -14,8 +14,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/72f5fbfe-ff88-495d-8436-6968d3c0c44a)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cihat-ulut%C3%BCrk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cihat.burak.uluturk@gmail.com) 
 
@@ -34,3 +32,8 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72f5fbfe-ff88-495d-8436-6968d3c0c44a" alt="Your GIF" />
+</p>

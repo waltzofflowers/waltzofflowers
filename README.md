@@ -33,6 +33,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=waltzofflowers&icon=6&color=11)](https://visitcount.itsvg.in)
 
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72f5fbfe-ff88-495d-8436-6968d3c0c44a" alt="Your GIF" />
